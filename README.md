@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minhkyuuby
-- 👀 I’m interested in Video development
+- 👀 I’m interested in Video Game development
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 You can contact with me at 'minhkyuuby@gmail.com'
 
